@@ -7,18 +7,18 @@ A aplicação tem um funcionamento bastante simples: na página inicial, o usuá
 # Conceitos
 Os conceitos abordados foram:
 
--> Hooks;
--> Componentes;
--> Propriedades;
--> Estado;
--> Rotas (com react-router-dom);
--> Requisições a APIs externas (com express);
--> Eventos;
--> Estilização (com styled-components);
--> Lidando com erros e experiência do usuário;
+.Hooks;
+.Componentes;
+.Propriedades;
+.Estado;
+.Rotas (com react-router-dom);
+.Requisições a APIs externas (com express);
+.Eventos;
+.Estilização (com styled-components);
+.Lidando com erros e experiência do usuário;
 
 # Usando a aplicação
 Para usá-la, basta executar os seguintes comandos na raíz do projeto:
 
--> npm install
--> npm start
+.npm install
+.npm start
